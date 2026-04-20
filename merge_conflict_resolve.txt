@@ -1,2 +1,4 @@
 First line added from the main/master branch 
+Second line from the main/master branch 
 Second line added from the new_branch1 on the second line
+
