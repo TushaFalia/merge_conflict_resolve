@@ -1,1 +1,2 @@
 First line added from the main/master branch 
+Second line from the main/master branch 
